@@ -1,0 +1,3 @@
+## master playbook
+---
+ - import_playbook: common-tasks.yml

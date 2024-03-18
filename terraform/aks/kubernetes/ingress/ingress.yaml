@@ -1,0 +1,10 @@
+---
+controller:
+  ingressClassResource:
+    name: external-nginx
+  service:
+    annotations:
+      service.beta.kubernetes.io/azure-load-balancer-health-probe-request-path: /healthz
+  watchIngressWithoutClass: true
+  extraArgs:
+    ingress-class: external-nginx

@@ -1,0 +1,5 @@
+---
+registry_name: casopractico2acr
+workspace: /Users/bpineros/Documents/caso-practico-2/Ansible/vm/ansible-opcion-1/playbooks/roles/config-webserver-along-with-docker/files/ServicioWeb/
+image_name: blog-apache:casopractico2
+user_acr: "casopractico2acr"

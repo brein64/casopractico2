@@ -1,0 +1,1261 @@
+virtualMachines  AustraliaCentral    Standard_B12ms               None
+virtualMachines  australiaeast       Standard_B12ms      1,2,3    None
+virtualMachines  australiasoutheast  Standard_B12ms               None
+virtualMachines  CanadaCentral       Standard_B12ms      1,2,3    None
+virtualMachines  CanadaEast          Standard_B12ms               None
+virtualMachines  CentralIndia        Standard_B12ms      1,2,3    None
+virtualMachines  eastasia            Standard_B12ms      1,2,3    None
+virtualMachines  EastUSSTG           Standard_B12ms               None
+virtualMachines  FranceCentral       Standard_B12ms      1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B12ms      1,2,3    None
+virtualMachines  IsraelCentral       Standard_B12ms      1,2,3    None
+virtualMachines  ItalyNorth          Standard_B12ms      1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B12ms               None
+virtualMachines  MexicoCentral       Standard_B12ms               None
+virtualMachines  northcentralus      Standard_B12ms               None
+virtualMachines  northeurope         Standard_B12ms      1,2,3    None
+virtualMachines  NorwayEast          Standard_B12ms      1,2,3    None
+virtualMachines  PolandCentral       Standard_B12ms      1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B12ms      1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B12ms               None
+virtualMachines  SouthIndia          Standard_B12ms               None
+virtualMachines  SpainCentral        Standard_B12ms               None
+virtualMachines  SwedenCentral       Standard_B12ms      1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B12ms      1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B12ms               None
+virtualMachines  TaiwanNorthwest     Standard_B12ms               None
+virtualMachines  UAENorth            Standard_B12ms      1,2,3    None
+virtualMachines  uksouth             Standard_B12ms      1,2,3    None
+virtualMachines  ukwest              Standard_B12ms               None
+virtualMachines  westus              Standard_B12ms               None
+virtualMachines  AustraliaCentral    Standard_B16als_v2           None
+virtualMachines  australiaeast       Standard_B16als_v2  1,2,3    None
+virtualMachines  australiasoutheast  Standard_B16als_v2           None
+virtualMachines  CanadaCentral       Standard_B16als_v2  1,2,3    None
+virtualMachines  CanadaEast          Standard_B16als_v2           None
+virtualMachines  CentralIndia        Standard_B16als_v2  1,2,3    None
+virtualMachines  centralus           Standard_B16als_v2  1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B16als_v2  2        None
+virtualMachines  eastasia            Standard_B16als_v2  1,2,3    None
+virtualMachines  eastus              Standard_B16als_v2  1,2,3    None
+virtualMachines  eastus2             Standard_B16als_v2  1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B16als_v2  1,2      None
+virtualMachines  GermanyWestCentral  Standard_B16als_v2  2,3      None
+virtualMachines  ItalyNorth          Standard_B16als_v2  1,3      None
+virtualMachines  japaneast           Standard_B16als_v2  1,3      None
+virtualMachines  japanwest           Standard_B16als_v2           None
+virtualMachines  KoreaCentral        Standard_B16als_v2  1,3      None
+virtualMachines  KoreaSouth          Standard_B16als_v2           None
+virtualMachines  MalaysiaSouth       Standard_B16als_v2           None
+virtualMachines  northcentralus      Standard_B16als_v2           None
+virtualMachines  northeurope         Standard_B16als_v2  1,2,3    None
+virtualMachines  NorwayEast          Standard_B16als_v2  1,2,3    None
+virtualMachines  PolandCentral       Standard_B16als_v2  1,2,3    None
+virtualMachines  southcentralus      Standard_B16als_v2  1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B16als_v2           None
+virtualMachines  SouthIndia          Standard_B16als_v2           None
+virtualMachines  SwedenCentral       Standard_B16als_v2  1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B16als_v2  1,2,3    None
+virtualMachines  UAENorth            Standard_B16als_v2  1,2,3    None
+virtualMachines  ukwest              Standard_B16als_v2           None
+virtualMachines  westcentralus       Standard_B16als_v2           None
+virtualMachines  westus              Standard_B16als_v2           None
+virtualMachines  westus2             Standard_B16als_v2  1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B16as_v2            None
+virtualMachines  australiaeast       Standard_B16as_v2   1,2,3    None
+virtualMachines  australiasoutheast  Standard_B16as_v2            None
+virtualMachines  CanadaCentral       Standard_B16as_v2   1,2,3    None
+virtualMachines  CanadaEast          Standard_B16as_v2            None
+virtualMachines  CentralIndia        Standard_B16as_v2   1,2,3    None
+virtualMachines  centralus           Standard_B16as_v2   1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B16as_v2   2        None
+virtualMachines  eastasia            Standard_B16as_v2   1,2,3    None
+virtualMachines  eastus              Standard_B16as_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B16as_v2   1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B16as_v2   1,2      None
+virtualMachines  GermanyWestCentral  Standard_B16as_v2   2,3      None
+virtualMachines  ItalyNorth          Standard_B16as_v2   1,3      None
+virtualMachines  japaneast           Standard_B16as_v2   1,3      None
+virtualMachines  japanwest           Standard_B16as_v2            None
+virtualMachines  KoreaCentral        Standard_B16as_v2   1,3      None
+virtualMachines  KoreaSouth          Standard_B16as_v2            None
+virtualMachines  MalaysiaSouth       Standard_B16as_v2            None
+virtualMachines  northcentralus      Standard_B16as_v2            None
+virtualMachines  northeurope         Standard_B16as_v2   1,2,3    None
+virtualMachines  NorwayEast          Standard_B16as_v2   1,2,3    None
+virtualMachines  PolandCentral       Standard_B16as_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B16as_v2   1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B16as_v2            None
+virtualMachines  SouthIndia          Standard_B16as_v2            None
+virtualMachines  SwedenCentral       Standard_B16as_v2   1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B16as_v2   1,2,3    None
+virtualMachines  UAENorth            Standard_B16as_v2   1,2,3    None
+virtualMachines  ukwest              Standard_B16as_v2            None
+virtualMachines  westcentralus       Standard_B16as_v2            None
+virtualMachines  westus              Standard_B16as_v2            None
+virtualMachines  westus2             Standard_B16as_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B16ls_v2            None
+virtualMachines  australiaeast       Standard_B16ls_v2   1,2,3    None
+virtualMachines  australiasoutheast  Standard_B16ls_v2            None
+virtualMachines  CanadaCentral       Standard_B16ls_v2   1,2,3    None
+virtualMachines  CanadaEast          Standard_B16ls_v2            None
+virtualMachines  CentralIndia        Standard_B16ls_v2   1,2,3    None
+virtualMachines  centralus           Standard_B16ls_v2   1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B16ls_v2   2        None
+virtualMachines  eastasia            Standard_B16ls_v2   1,2,3    None
+virtualMachines  eastus              Standard_B16ls_v2   1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B16ls_v2   1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B16ls_v2   1,2,3    None
+virtualMachines  IsraelCentral       Standard_B16ls_v2   1,2,3    None
+virtualMachines  ItalyNorth          Standard_B16ls_v2   1,2,3    None
+virtualMachines  japaneast           Standard_B16ls_v2   1,2,3    None
+virtualMachines  japanwest           Standard_B16ls_v2            None
+virtualMachines  KoreaCentral        Standard_B16ls_v2   1,2,3    None
+virtualMachines  KoreaSouth          Standard_B16ls_v2            None
+virtualMachines  MalaysiaSouth       Standard_B16ls_v2            None
+virtualMachines  MexicoCentral       Standard_B16ls_v2            None
+virtualMachines  northcentralus      Standard_B16ls_v2            None
+virtualMachines  northeurope         Standard_B16ls_v2   1,2,3    None
+virtualMachines  NorwayEast          Standard_B16ls_v2   1,2,3    None
+virtualMachines  PolandCentral       Standard_B16ls_v2   1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B16ls_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B16ls_v2   1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B16ls_v2            None
+virtualMachines  SouthIndia          Standard_B16ls_v2            None
+virtualMachines  SpainCentral        Standard_B16ls_v2            None
+virtualMachines  SwedenCentral       Standard_B16ls_v2   1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B16ls_v2   1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B16ls_v2            None
+virtualMachines  TaiwanNorthwest     Standard_B16ls_v2            None
+virtualMachines  UAENorth            Standard_B16ls_v2   1,2,3    None
+virtualMachines  uksouth             Standard_B16ls_v2   1,2,3    None
+virtualMachines  ukwest              Standard_B16ls_v2            None
+virtualMachines  westus              Standard_B16ls_v2            None
+virtualMachines  westus2             Standard_B16ls_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B16ms               None
+virtualMachines  australiaeast       Standard_B16ms      1,2,3    None
+virtualMachines  australiasoutheast  Standard_B16ms               None
+virtualMachines  CanadaCentral       Standard_B16ms      1,2,3    None
+virtualMachines  CanadaEast          Standard_B16ms               None
+virtualMachines  CentralIndia        Standard_B16ms      1,2,3    None
+virtualMachines  eastasia            Standard_B16ms      1,2,3    None
+virtualMachines  EastUSSTG           Standard_B16ms               None
+virtualMachines  FranceCentral       Standard_B16ms      1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B16ms      1,2,3    None
+virtualMachines  IsraelCentral       Standard_B16ms      1,2,3    None
+virtualMachines  ItalyNorth          Standard_B16ms      1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B16ms               None
+virtualMachines  MexicoCentral       Standard_B16ms               None
+virtualMachines  northcentralus      Standard_B16ms               None
+virtualMachines  northeurope         Standard_B16ms      1,2,3    None
+virtualMachines  NorwayEast          Standard_B16ms      1,2,3    None
+virtualMachines  PolandCentral       Standard_B16ms      1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B16ms      1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B16ms               None
+virtualMachines  SouthIndia          Standard_B16ms               None
+virtualMachines  SpainCentral        Standard_B16ms               None
+virtualMachines  SwedenCentral       Standard_B16ms      1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B16ms      1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B16ms               None
+virtualMachines  TaiwanNorthwest     Standard_B16ms               None
+virtualMachines  UAENorth            Standard_B16ms      1,2,3    None
+virtualMachines  uksouth             Standard_B16ms      1,2,3    None
+virtualMachines  ukwest              Standard_B16ms               None
+virtualMachines  westus              Standard_B16ms               None
+virtualMachines  australiaeast       Standard_B16pls_v2  1,2,3    None
+virtualMachines  CanadaCentral       Standard_B16pls_v2  1        None
+virtualMachines  CentralIndia        Standard_B16pls_v2  1,2,3    None
+virtualMachines  centralus           Standard_B16pls_v2  1,2,3    None
+virtualMachines  eastasia            Standard_B16pls_v2  3        None
+virtualMachines  eastus              Standard_B16pls_v2  1,2,3    None
+virtualMachines  eastus2             Standard_B16pls_v2  1,2      None
+virtualMachines  EastUS2EUAP         Standard_B16pls_v2  3        None
+virtualMachines  FranceCentral       Standard_B16pls_v2  2        None
+virtualMachines  GermanyWestCentral  Standard_B16pls_v2  2,3      None
+virtualMachines  japaneast           Standard_B16pls_v2  1        None
+virtualMachines  northcentralus      Standard_B16pls_v2           None
+virtualMachines  northeurope         Standard_B16pls_v2  1,2,3    None
+virtualMachines  southcentralus      Standard_B16pls_v2  1,2,3    None
+virtualMachines  southeastasia       Standard_B16pls_v2  1,2      None
+virtualMachines  SwedenCentral       Standard_B16pls_v2  3        None
+virtualMachines  uksouth             Standard_B16pls_v2  1,2,3    None
+virtualMachines  westcentralus       Standard_B16pls_v2           None
+virtualMachines  westus              Standard_B16pls_v2           None
+virtualMachines  westus2             Standard_B16pls_v2  1,2,3    None
+virtualMachines  australiaeast       Standard_B16ps_v2   1,2,3    None
+virtualMachines  CanadaCentral       Standard_B16ps_v2   1        None
+virtualMachines  CentralIndia        Standard_B16ps_v2   1,2,3    None
+virtualMachines  centralus           Standard_B16ps_v2   1,2,3    None
+virtualMachines  eastasia            Standard_B16ps_v2   3        None
+virtualMachines  eastus              Standard_B16ps_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B16ps_v2   1,2      None
+virtualMachines  EastUS2EUAP         Standard_B16ps_v2   3        None
+virtualMachines  FranceCentral       Standard_B16ps_v2   2        None
+virtualMachines  GermanyWestCentral  Standard_B16ps_v2   2,3      None
+virtualMachines  japaneast           Standard_B16ps_v2   1        None
+virtualMachines  northcentralus      Standard_B16ps_v2            None
+virtualMachines  northeurope         Standard_B16ps_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B16ps_v2   1,2,3    None
+virtualMachines  southeastasia       Standard_B16ps_v2   1,2      None
+virtualMachines  SwedenCentral       Standard_B16ps_v2   3        None
+virtualMachines  uksouth             Standard_B16ps_v2   1,2,3    None
+virtualMachines  westcentralus       Standard_B16ps_v2            None
+virtualMachines  westus              Standard_B16ps_v2            None
+virtualMachines  westus2             Standard_B16ps_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B16s_v2             None
+virtualMachines  australiaeast       Standard_B16s_v2    1,2,3    None
+virtualMachines  australiasoutheast  Standard_B16s_v2             None
+virtualMachines  CanadaCentral       Standard_B16s_v2    1,2,3    None
+virtualMachines  CanadaEast          Standard_B16s_v2             None
+virtualMachines  CentralIndia        Standard_B16s_v2    1,2,3    None
+virtualMachines  centralus           Standard_B16s_v2    1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B16s_v2    2        None
+virtualMachines  eastasia            Standard_B16s_v2    1,2,3    None
+virtualMachines  eastus              Standard_B16s_v2    1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B16s_v2    1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B16s_v2    1,2,3    None
+virtualMachines  IsraelCentral       Standard_B16s_v2    1,2,3    None
+virtualMachines  ItalyNorth          Standard_B16s_v2    1,2,3    None
+virtualMachines  japaneast           Standard_B16s_v2    1,2,3    None
+virtualMachines  japanwest           Standard_B16s_v2             None
+virtualMachines  KoreaCentral        Standard_B16s_v2    1,2,3    None
+virtualMachines  KoreaSouth          Standard_B16s_v2             None
+virtualMachines  MalaysiaSouth       Standard_B16s_v2             None
+virtualMachines  MexicoCentral       Standard_B16s_v2             None
+virtualMachines  northcentralus      Standard_B16s_v2             None
+virtualMachines  northeurope         Standard_B16s_v2    1,2,3    None
+virtualMachines  NorwayEast          Standard_B16s_v2    1,2,3    None
+virtualMachines  PolandCentral       Standard_B16s_v2    1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B16s_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B16s_v2    1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B16s_v2             None
+virtualMachines  SouthIndia          Standard_B16s_v2             None
+virtualMachines  SpainCentral        Standard_B16s_v2             None
+virtualMachines  SwedenCentral       Standard_B16s_v2    1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B16s_v2    1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B16s_v2             None
+virtualMachines  TaiwanNorthwest     Standard_B16s_v2             None
+virtualMachines  UAENorth            Standard_B16s_v2    1,2,3    None
+virtualMachines  uksouth             Standard_B16s_v2    1,2,3    None
+virtualMachines  ukwest              Standard_B16s_v2             None
+virtualMachines  westus              Standard_B16s_v2             None
+virtualMachines  westus2             Standard_B16s_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B1ls                None
+virtualMachines  australiaeast       Standard_B1ls       1,2,3    None
+virtualMachines  australiasoutheast  Standard_B1ls                None
+virtualMachines  CanadaCentral       Standard_B1ls       1,2,3    None
+virtualMachines  CanadaEast          Standard_B1ls                None
+virtualMachines  CentralIndia        Standard_B1ls       1,2,3    None
+virtualMachines  eastasia            Standard_B1ls       1,2,3    None
+virtualMachines  EastUSSTG           Standard_B1ls                None
+virtualMachines  FranceCentral       Standard_B1ls       1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B1ls       1,2,3    None
+virtualMachines  IsraelCentral       Standard_B1ls       1,2,3    None
+virtualMachines  ItalyNorth          Standard_B1ls       1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B1ls                None
+virtualMachines  MexicoCentral       Standard_B1ls                None
+virtualMachines  northcentralus      Standard_B1ls                None
+virtualMachines  northeurope         Standard_B1ls       1,2,3    None
+virtualMachines  NorwayEast          Standard_B1ls       1,2,3    None
+virtualMachines  PolandCentral       Standard_B1ls       1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B1ls       1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B1ls                None
+virtualMachines  SouthIndia          Standard_B1ls                None
+virtualMachines  SpainCentral        Standard_B1ls                None
+virtualMachines  SwedenCentral       Standard_B1ls       1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B1ls       1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B1ls                None
+virtualMachines  TaiwanNorthwest     Standard_B1ls                None
+virtualMachines  UAENorth            Standard_B1ls       1,2,3    None
+virtualMachines  uksouth             Standard_B1ls       1,2,3    None
+virtualMachines  ukwest              Standard_B1ls                None
+virtualMachines  westus              Standard_B1ls                None
+virtualMachines  AustraliaCentral    Standard_B1ms                None
+virtualMachines  australiaeast       Standard_B1ms       1,2,3    None
+virtualMachines  australiasoutheast  Standard_B1ms                None
+virtualMachines  CanadaCentral       Standard_B1ms       1,2,3    None
+virtualMachines  CanadaEast          Standard_B1ms                None
+virtualMachines  CentralIndia        Standard_B1ms       1,2,3    None
+virtualMachines  eastasia            Standard_B1ms       1,2,3    None
+virtualMachines  EastUSSTG           Standard_B1ms                None
+virtualMachines  FranceCentral       Standard_B1ms       1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B1ms       1,2,3    None
+virtualMachines  IsraelCentral       Standard_B1ms       1,2,3    None
+virtualMachines  ItalyNorth          Standard_B1ms       1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B1ms                None
+virtualMachines  MexicoCentral       Standard_B1ms                None
+virtualMachines  northcentralus      Standard_B1ms                None
+virtualMachines  northeurope         Standard_B1ms       1,2,3    None
+virtualMachines  NorwayEast          Standard_B1ms       1,2,3    None
+virtualMachines  PolandCentral       Standard_B1ms       1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B1ms       1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B1ms                None
+virtualMachines  SouthIndia          Standard_B1ms                None
+virtualMachines  SpainCentral        Standard_B1ms                None
+virtualMachines  SwedenCentral       Standard_B1ms       1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B1ms       1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B1ms                None
+virtualMachines  TaiwanNorthwest     Standard_B1ms                None
+virtualMachines  UAENorth            Standard_B1ms       1,2,3    None
+virtualMachines  uksouth             Standard_B1ms       1,2,3    None
+virtualMachines  ukwest              Standard_B1ms                None
+virtualMachines  westus              Standard_B1ms                None
+virtualMachines  AustraliaCentral    Standard_B1s                 None
+virtualMachines  australiaeast       Standard_B1s        1,2,3    None
+virtualMachines  australiasoutheast  Standard_B1s                 None
+virtualMachines  CanadaCentral       Standard_B1s        1,2,3    None
+virtualMachines  CanadaEast          Standard_B1s                 None
+virtualMachines  CentralIndia        Standard_B1s        1,2,3    None
+virtualMachines  eastasia            Standard_B1s        1,2,3    None
+virtualMachines  EastUSSTG           Standard_B1s                 None
+virtualMachines  FranceCentral       Standard_B1s        1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B1s        1,2,3    None
+virtualMachines  IsraelCentral       Standard_B1s        1,2,3    None
+virtualMachines  ItalyNorth          Standard_B1s        1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B1s                 None
+virtualMachines  MexicoCentral       Standard_B1s                 None
+virtualMachines  northcentralus      Standard_B1s                 None
+virtualMachines  northeurope         Standard_B1s        1,2,3    None
+virtualMachines  NorwayEast          Standard_B1s        1,2,3    None
+virtualMachines  PolandCentral       Standard_B1s        1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B1s        1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B1s                 None
+virtualMachines  SouthIndia          Standard_B1s                 None
+virtualMachines  SpainCentral        Standard_B1s                 None
+virtualMachines  SwedenCentral       Standard_B1s        1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B1s        1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B1s                 None
+virtualMachines  TaiwanNorthwest     Standard_B1s                 None
+virtualMachines  UAENorth            Standard_B1s        1,2,3    None
+virtualMachines  uksouth             Standard_B1s        1,2,3    None
+virtualMachines  ukwest              Standard_B1s                 None
+virtualMachines  westus              Standard_B1s                 None
+virtualMachines  AustraliaCentral    Standard_B20ms               None
+virtualMachines  australiaeast       Standard_B20ms      1,2,3    None
+virtualMachines  australiasoutheast  Standard_B20ms               None
+virtualMachines  CanadaCentral       Standard_B20ms      1,2,3    None
+virtualMachines  CanadaEast          Standard_B20ms               None
+virtualMachines  CentralIndia        Standard_B20ms      1,2,3    None
+virtualMachines  eastasia            Standard_B20ms      1,2,3    None
+virtualMachines  EastUSSTG           Standard_B20ms               None
+virtualMachines  FranceCentral       Standard_B20ms      1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B20ms      1,2,3    None
+virtualMachines  IsraelCentral       Standard_B20ms      1,2,3    None
+virtualMachines  ItalyNorth          Standard_B20ms      1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B20ms               None
+virtualMachines  MexicoCentral       Standard_B20ms               None
+virtualMachines  northcentralus      Standard_B20ms               None
+virtualMachines  northeurope         Standard_B20ms      1,2,3    None
+virtualMachines  NorwayEast          Standard_B20ms      1,2,3    None
+virtualMachines  PolandCentral       Standard_B20ms      1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B20ms      1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B20ms               None
+virtualMachines  SouthIndia          Standard_B20ms               None
+virtualMachines  SpainCentral        Standard_B20ms               None
+virtualMachines  SwedenCentral       Standard_B20ms      1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B20ms      1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B20ms               None
+virtualMachines  TaiwanNorthwest     Standard_B20ms               None
+virtualMachines  UAENorth            Standard_B20ms      1,2,3    None
+virtualMachines  uksouth             Standard_B20ms      1,2,3    None
+virtualMachines  ukwest              Standard_B20ms               None
+virtualMachines  westus              Standard_B20ms               None
+virtualMachines  AustraliaCentral    Standard_B2als_v2            None
+virtualMachines  australiaeast       Standard_B2als_v2   1,2,3    None
+virtualMachines  australiasoutheast  Standard_B2als_v2            None
+virtualMachines  CanadaCentral       Standard_B2als_v2   1,2,3    None
+virtualMachines  CanadaEast          Standard_B2als_v2            None
+virtualMachines  CentralIndia        Standard_B2als_v2   1,2,3    None
+virtualMachines  centralus           Standard_B2als_v2   1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B2als_v2   2        None
+virtualMachines  eastasia            Standard_B2als_v2   1,2,3    None
+virtualMachines  eastus              Standard_B2als_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B2als_v2   1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B2als_v2   1,2      None
+virtualMachines  GermanyWestCentral  Standard_B2als_v2   2,3      None
+virtualMachines  ItalyNorth          Standard_B2als_v2   1,3      None
+virtualMachines  japaneast           Standard_B2als_v2   1,3      None
+virtualMachines  japanwest           Standard_B2als_v2            None
+virtualMachines  KoreaCentral        Standard_B2als_v2   1,3      None
+virtualMachines  KoreaSouth          Standard_B2als_v2            None
+virtualMachines  MalaysiaSouth       Standard_B2als_v2            None
+virtualMachines  northcentralus      Standard_B2als_v2            None
+virtualMachines  northeurope         Standard_B2als_v2   1,2,3    None
+virtualMachines  NorwayEast          Standard_B2als_v2   1,2,3    None
+virtualMachines  PolandCentral       Standard_B2als_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B2als_v2   1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B2als_v2            None
+virtualMachines  SouthIndia          Standard_B2als_v2            None
+virtualMachines  SwedenCentral       Standard_B2als_v2   1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B2als_v2   1,2,3    None
+virtualMachines  UAENorth            Standard_B2als_v2   1,2,3    None
+virtualMachines  ukwest              Standard_B2als_v2            None
+virtualMachines  westcentralus       Standard_B2als_v2            None
+virtualMachines  westus              Standard_B2als_v2            None
+virtualMachines  westus2             Standard_B2als_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B2as_v2             None
+virtualMachines  australiaeast       Standard_B2as_v2    1,2,3    None
+virtualMachines  australiasoutheast  Standard_B2as_v2             None
+virtualMachines  CanadaCentral       Standard_B2as_v2    1,2,3    None
+virtualMachines  CanadaEast          Standard_B2as_v2             None
+virtualMachines  CentralIndia        Standard_B2as_v2    1,2,3    None
+virtualMachines  centralus           Standard_B2as_v2    1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B2as_v2    2        None
+virtualMachines  eastasia            Standard_B2as_v2    1,2,3    None
+virtualMachines  eastus              Standard_B2as_v2    1,2,3    None
+virtualMachines  eastus2             Standard_B2as_v2    1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B2as_v2    1,2      None
+virtualMachines  GermanyWestCentral  Standard_B2as_v2    2,3      None
+virtualMachines  ItalyNorth          Standard_B2as_v2    1,3      None
+virtualMachines  japaneast           Standard_B2as_v2    1,3      None
+virtualMachines  japanwest           Standard_B2as_v2             None
+virtualMachines  KoreaCentral        Standard_B2as_v2    1,3      None
+virtualMachines  KoreaSouth          Standard_B2as_v2             None
+virtualMachines  MalaysiaSouth       Standard_B2as_v2             None
+virtualMachines  northcentralus      Standard_B2as_v2             None
+virtualMachines  northeurope         Standard_B2as_v2    1,2,3    None
+virtualMachines  NorwayEast          Standard_B2as_v2    1,2,3    None
+virtualMachines  PolandCentral       Standard_B2as_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B2as_v2    1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B2as_v2             None
+virtualMachines  SouthIndia          Standard_B2as_v2             None
+virtualMachines  SwedenCentral       Standard_B2as_v2    1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B2as_v2    1,2,3    None
+virtualMachines  UAENorth            Standard_B2as_v2    1,2,3    None
+virtualMachines  ukwest              Standard_B2as_v2             None
+virtualMachines  westcentralus       Standard_B2as_v2             None
+virtualMachines  westus              Standard_B2as_v2             None
+virtualMachines  westus2             Standard_B2as_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B2ats_v2            None
+virtualMachines  australiaeast       Standard_B2ats_v2   1,2,3    None
+virtualMachines  australiasoutheast  Standard_B2ats_v2            None
+virtualMachines  CanadaCentral       Standard_B2ats_v2   1,2,3    None
+virtualMachines  CanadaEast          Standard_B2ats_v2            None
+virtualMachines  CentralIndia        Standard_B2ats_v2   1,2,3    None
+virtualMachines  centralus           Standard_B2ats_v2   1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B2ats_v2   2        None
+virtualMachines  eastasia            Standard_B2ats_v2   1,2,3    None
+virtualMachines  eastus              Standard_B2ats_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B2ats_v2   1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B2ats_v2   1,2      None
+virtualMachines  GermanyWestCentral  Standard_B2ats_v2   2,3      None
+virtualMachines  ItalyNorth          Standard_B2ats_v2   1,3      None
+virtualMachines  japaneast           Standard_B2ats_v2   1,3      None
+virtualMachines  japanwest           Standard_B2ats_v2            None
+virtualMachines  KoreaCentral        Standard_B2ats_v2   1,3      None
+virtualMachines  KoreaSouth          Standard_B2ats_v2            None
+virtualMachines  MalaysiaSouth       Standard_B2ats_v2            None
+virtualMachines  northcentralus      Standard_B2ats_v2            None
+virtualMachines  northeurope         Standard_B2ats_v2   1,2,3    None
+virtualMachines  NorwayEast          Standard_B2ats_v2   1,2,3    None
+virtualMachines  PolandCentral       Standard_B2ats_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B2ats_v2   1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B2ats_v2            None
+virtualMachines  SouthIndia          Standard_B2ats_v2            None
+virtualMachines  SwedenCentral       Standard_B2ats_v2   1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B2ats_v2   1,2,3    None
+virtualMachines  UAENorth            Standard_B2ats_v2   1,2,3    None
+virtualMachines  ukwest              Standard_B2ats_v2            None
+virtualMachines  westcentralus       Standard_B2ats_v2            None
+virtualMachines  westus              Standard_B2ats_v2            None
+virtualMachines  westus2             Standard_B2ats_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B2ls_v2             None
+virtualMachines  australiaeast       Standard_B2ls_v2    1,2,3    None
+virtualMachines  australiasoutheast  Standard_B2ls_v2             None
+virtualMachines  CanadaCentral       Standard_B2ls_v2    1,2,3    None
+virtualMachines  CanadaEast          Standard_B2ls_v2             None
+virtualMachines  CentralIndia        Standard_B2ls_v2    1,2,3    None
+virtualMachines  centralus           Standard_B2ls_v2    1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B2ls_v2    2        None
+virtualMachines  eastasia            Standard_B2ls_v2    1,2,3    None
+virtualMachines  eastus              Standard_B2ls_v2    1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B2ls_v2    1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B2ls_v2    1,2,3    None
+virtualMachines  IsraelCentral       Standard_B2ls_v2    1,2,3    None
+virtualMachines  ItalyNorth          Standard_B2ls_v2    1,2,3    None
+virtualMachines  japaneast           Standard_B2ls_v2    1,2,3    None
+virtualMachines  japanwest           Standard_B2ls_v2             None
+virtualMachines  KoreaCentral        Standard_B2ls_v2    1,2,3    None
+virtualMachines  KoreaSouth          Standard_B2ls_v2             None
+virtualMachines  MalaysiaSouth       Standard_B2ls_v2             None
+virtualMachines  MexicoCentral       Standard_B2ls_v2             None
+virtualMachines  northcentralus      Standard_B2ls_v2             None
+virtualMachines  northeurope         Standard_B2ls_v2    1,2,3    None
+virtualMachines  NorwayEast          Standard_B2ls_v2    1,2,3    None
+virtualMachines  PolandCentral       Standard_B2ls_v2    1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B2ls_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B2ls_v2    1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B2ls_v2             None
+virtualMachines  SouthIndia          Standard_B2ls_v2             None
+virtualMachines  SpainCentral        Standard_B2ls_v2             None
+virtualMachines  SwedenCentral       Standard_B2ls_v2    1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B2ls_v2    1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B2ls_v2             None
+virtualMachines  TaiwanNorthwest     Standard_B2ls_v2             None
+virtualMachines  UAENorth            Standard_B2ls_v2    1,2,3    None
+virtualMachines  uksouth             Standard_B2ls_v2    1,2,3    None
+virtualMachines  ukwest              Standard_B2ls_v2             None
+virtualMachines  westus              Standard_B2ls_v2             None
+virtualMachines  westus2             Standard_B2ls_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B2ms                None
+virtualMachines  australiaeast       Standard_B2ms       1,2,3    None
+virtualMachines  australiasoutheast  Standard_B2ms                None
+virtualMachines  CanadaCentral       Standard_B2ms       1,2,3    None
+virtualMachines  CanadaEast          Standard_B2ms                None
+virtualMachines  CentralIndia        Standard_B2ms       1,2,3    None
+virtualMachines  eastasia            Standard_B2ms       1,2,3    None
+virtualMachines  EastUSSTG           Standard_B2ms                None
+virtualMachines  FranceCentral       Standard_B2ms       1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B2ms       1,2,3    None
+virtualMachines  IsraelCentral       Standard_B2ms       1,2,3    None
+virtualMachines  ItalyNorth          Standard_B2ms       1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B2ms                None
+virtualMachines  MexicoCentral       Standard_B2ms                None
+virtualMachines  northcentralus      Standard_B2ms                None
+virtualMachines  northeurope         Standard_B2ms       1,2,3    None
+virtualMachines  NorwayEast          Standard_B2ms       1,2,3    None
+virtualMachines  PolandCentral       Standard_B2ms       1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B2ms       1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B2ms                None
+virtualMachines  SouthIndia          Standard_B2ms                None
+virtualMachines  SpainCentral        Standard_B2ms                None
+virtualMachines  SwedenCentral       Standard_B2ms       1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B2ms       1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B2ms                None
+virtualMachines  TaiwanNorthwest     Standard_B2ms                None
+virtualMachines  UAENorth            Standard_B2ms       1,2,3    None
+virtualMachines  uksouth             Standard_B2ms       1,2,3    None
+virtualMachines  ukwest              Standard_B2ms                None
+virtualMachines  westus              Standard_B2ms                None
+virtualMachines  australiaeast       Standard_B2pls_v2   1,2,3    None
+virtualMachines  CanadaCentral       Standard_B2pls_v2   1        None
+virtualMachines  CentralIndia        Standard_B2pls_v2   1,2,3    None
+virtualMachines  centralus           Standard_B2pls_v2   1,2,3    None
+virtualMachines  eastasia            Standard_B2pls_v2   3        None
+virtualMachines  eastus              Standard_B2pls_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B2pls_v2   1,2      None
+virtualMachines  EastUS2EUAP         Standard_B2pls_v2   3        None
+virtualMachines  FranceCentral       Standard_B2pls_v2   2        None
+virtualMachines  GermanyWestCentral  Standard_B2pls_v2   2,3      None
+virtualMachines  japaneast           Standard_B2pls_v2   1        None
+virtualMachines  northcentralus      Standard_B2pls_v2            None
+virtualMachines  northeurope         Standard_B2pls_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B2pls_v2   1,2,3    None
+virtualMachines  southeastasia       Standard_B2pls_v2   1,2      None
+virtualMachines  SwedenCentral       Standard_B2pls_v2   3        None
+virtualMachines  uksouth             Standard_B2pls_v2   1,2,3    None
+virtualMachines  westcentralus       Standard_B2pls_v2            None
+virtualMachines  westus              Standard_B2pls_v2            None
+virtualMachines  westus2             Standard_B2pls_v2   1,2,3    None
+virtualMachines  australiaeast       Standard_B2ps_v2    1,2,3    None
+virtualMachines  CanadaCentral       Standard_B2ps_v2    1        None
+virtualMachines  CentralIndia        Standard_B2ps_v2    1,2,3    None
+virtualMachines  centralus           Standard_B2ps_v2    1,2,3    None
+virtualMachines  eastasia            Standard_B2ps_v2    3        None
+virtualMachines  eastus              Standard_B2ps_v2    1,2,3    None
+virtualMachines  eastus2             Standard_B2ps_v2    1,2      None
+virtualMachines  EastUS2EUAP         Standard_B2ps_v2    3        None
+virtualMachines  FranceCentral       Standard_B2ps_v2    2        None
+virtualMachines  GermanyWestCentral  Standard_B2ps_v2    2,3      None
+virtualMachines  japaneast           Standard_B2ps_v2    1        None
+virtualMachines  northcentralus      Standard_B2ps_v2             None
+virtualMachines  northeurope         Standard_B2ps_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B2ps_v2    1,2,3    None
+virtualMachines  southeastasia       Standard_B2ps_v2    1,2      None
+virtualMachines  SwedenCentral       Standard_B2ps_v2    3        None
+virtualMachines  uksouth             Standard_B2ps_v2    1,2,3    None
+virtualMachines  westcentralus       Standard_B2ps_v2             None
+virtualMachines  westus              Standard_B2ps_v2             None
+virtualMachines  westus2             Standard_B2ps_v2    1,2,3    None
+virtualMachines  australiaeast       Standard_B2pts_v2   1,2,3    None
+virtualMachines  CanadaCentral       Standard_B2pts_v2   1        None
+virtualMachines  CentralIndia        Standard_B2pts_v2   1,2,3    None
+virtualMachines  centralus           Standard_B2pts_v2   1,2,3    None
+virtualMachines  eastasia            Standard_B2pts_v2   3        None
+virtualMachines  eastus              Standard_B2pts_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B2pts_v2   1,2      None
+virtualMachines  EastUS2EUAP         Standard_B2pts_v2   3        None
+virtualMachines  FranceCentral       Standard_B2pts_v2   2        None
+virtualMachines  GermanyWestCentral  Standard_B2pts_v2   2,3      None
+virtualMachines  japaneast           Standard_B2pts_v2   1        None
+virtualMachines  northcentralus      Standard_B2pts_v2            None
+virtualMachines  northeurope         Standard_B2pts_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B2pts_v2   1,2,3    None
+virtualMachines  southeastasia       Standard_B2pts_v2   1,2      None
+virtualMachines  SwedenCentral       Standard_B2pts_v2   3        None
+virtualMachines  uksouth             Standard_B2pts_v2   1,2,3    None
+virtualMachines  westcentralus       Standard_B2pts_v2            None
+virtualMachines  westus              Standard_B2pts_v2            None
+virtualMachines  westus2             Standard_B2pts_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B2s                 None
+virtualMachines  australiaeast       Standard_B2s        1,2,3    None
+virtualMachines  australiasoutheast  Standard_B2s                 None
+virtualMachines  CanadaCentral       Standard_B2s        1,2,3    None
+virtualMachines  CanadaEast          Standard_B2s                 None
+virtualMachines  CentralIndia        Standard_B2s        1,2,3    None
+virtualMachines  eastasia            Standard_B2s        1,2,3    None
+virtualMachines  EastUSSTG           Standard_B2s                 None
+virtualMachines  FranceCentral       Standard_B2s        1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B2s        1,2,3    None
+virtualMachines  IsraelCentral       Standard_B2s        1,2,3    None
+virtualMachines  ItalyNorth          Standard_B2s        1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B2s                 None
+virtualMachines  MexicoCentral       Standard_B2s                 None
+virtualMachines  northcentralus      Standard_B2s                 None
+virtualMachines  northeurope         Standard_B2s        1,2,3    None
+virtualMachines  NorwayEast          Standard_B2s        1,2,3    None
+virtualMachines  PolandCentral       Standard_B2s        1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B2s        1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B2s                 None
+virtualMachines  SouthIndia          Standard_B2s                 None
+virtualMachines  SpainCentral        Standard_B2s                 None
+virtualMachines  SwedenCentral       Standard_B2s        1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B2s        1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B2s                 None
+virtualMachines  TaiwanNorthwest     Standard_B2s                 None
+virtualMachines  UAENorth            Standard_B2s        1,2,3    None
+virtualMachines  uksouth             Standard_B2s        1,2,3    None
+virtualMachines  ukwest              Standard_B2s                 None
+virtualMachines  westus              Standard_B2s                 None
+virtualMachines  AustraliaCentral    Standard_B2s_v2              None
+virtualMachines  australiaeast       Standard_B2s_v2     1,2,3    None
+virtualMachines  australiasoutheast  Standard_B2s_v2              None
+virtualMachines  CanadaCentral       Standard_B2s_v2     1,2,3    None
+virtualMachines  CanadaEast          Standard_B2s_v2              None
+virtualMachines  CentralIndia        Standard_B2s_v2     1,2,3    None
+virtualMachines  centralus           Standard_B2s_v2     1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B2s_v2     2        None
+virtualMachines  eastasia            Standard_B2s_v2     1,2,3    None
+virtualMachines  eastus              Standard_B2s_v2     1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B2s_v2     1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B2s_v2     1,2,3    None
+virtualMachines  IsraelCentral       Standard_B2s_v2     1,2,3    None
+virtualMachines  ItalyNorth          Standard_B2s_v2     1,2,3    None
+virtualMachines  japaneast           Standard_B2s_v2     1,2,3    None
+virtualMachines  japanwest           Standard_B2s_v2              None
+virtualMachines  KoreaCentral        Standard_B2s_v2     1,2,3    None
+virtualMachines  KoreaSouth          Standard_B2s_v2              None
+virtualMachines  MalaysiaSouth       Standard_B2s_v2              None
+virtualMachines  MexicoCentral       Standard_B2s_v2              None
+virtualMachines  northcentralus      Standard_B2s_v2              None
+virtualMachines  northeurope         Standard_B2s_v2     1,2,3    None
+virtualMachines  NorwayEast          Standard_B2s_v2     1,2,3    None
+virtualMachines  PolandCentral       Standard_B2s_v2     1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B2s_v2     1,2,3    None
+virtualMachines  southcentralus      Standard_B2s_v2     1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B2s_v2              None
+virtualMachines  SouthIndia          Standard_B2s_v2              None
+virtualMachines  SpainCentral        Standard_B2s_v2              None
+virtualMachines  SwedenCentral       Standard_B2s_v2     1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B2s_v2     1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B2s_v2              None
+virtualMachines  TaiwanNorthwest     Standard_B2s_v2              None
+virtualMachines  UAENorth            Standard_B2s_v2     1,2,3    None
+virtualMachines  uksouth             Standard_B2s_v2     1,2,3    None
+virtualMachines  ukwest              Standard_B2s_v2              None
+virtualMachines  westus              Standard_B2s_v2              None
+virtualMachines  westus2             Standard_B2s_v2     1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B2ts_v2             None
+virtualMachines  australiaeast       Standard_B2ts_v2    1,2,3    None
+virtualMachines  australiasoutheast  Standard_B2ts_v2             None
+virtualMachines  CanadaCentral       Standard_B2ts_v2    1,2,3    None
+virtualMachines  CanadaEast          Standard_B2ts_v2             None
+virtualMachines  CentralIndia        Standard_B2ts_v2    1,2,3    None
+virtualMachines  centralus           Standard_B2ts_v2    1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B2ts_v2    2        None
+virtualMachines  eastasia            Standard_B2ts_v2    1,2,3    None
+virtualMachines  eastus              Standard_B2ts_v2    1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B2ts_v2    1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B2ts_v2    1,2,3    None
+virtualMachines  IsraelCentral       Standard_B2ts_v2    1,2,3    None
+virtualMachines  ItalyNorth          Standard_B2ts_v2    1,2,3    None
+virtualMachines  japaneast           Standard_B2ts_v2    1,2,3    None
+virtualMachines  japanwest           Standard_B2ts_v2             None
+virtualMachines  KoreaCentral        Standard_B2ts_v2    1,2,3    None
+virtualMachines  KoreaSouth          Standard_B2ts_v2             None
+virtualMachines  MalaysiaSouth       Standard_B2ts_v2             None
+virtualMachines  MexicoCentral       Standard_B2ts_v2             None
+virtualMachines  northcentralus      Standard_B2ts_v2             None
+virtualMachines  northeurope         Standard_B2ts_v2    1,2,3    None
+virtualMachines  NorwayEast          Standard_B2ts_v2    1,2,3    None
+virtualMachines  PolandCentral       Standard_B2ts_v2    1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B2ts_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B2ts_v2    1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B2ts_v2             None
+virtualMachines  SouthIndia          Standard_B2ts_v2             None
+virtualMachines  SpainCentral        Standard_B2ts_v2             None
+virtualMachines  SwedenCentral       Standard_B2ts_v2    1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B2ts_v2    1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B2ts_v2             None
+virtualMachines  TaiwanNorthwest     Standard_B2ts_v2             None
+virtualMachines  UAENorth            Standard_B2ts_v2    1,2,3    None
+virtualMachines  uksouth             Standard_B2ts_v2    1,2,3    None
+virtualMachines  ukwest              Standard_B2ts_v2             None
+virtualMachines  westus              Standard_B2ts_v2             None
+virtualMachines  westus2             Standard_B2ts_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B32als_v2           None
+virtualMachines  australiaeast       Standard_B32als_v2  1,2,3    None
+virtualMachines  australiasoutheast  Standard_B32als_v2           None
+virtualMachines  CanadaCentral       Standard_B32als_v2  1,2,3    None
+virtualMachines  CanadaEast          Standard_B32als_v2           None
+virtualMachines  CentralIndia        Standard_B32als_v2  1,2,3    None
+virtualMachines  centralus           Standard_B32als_v2  1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B32als_v2  2        None
+virtualMachines  eastasia            Standard_B32als_v2  1,2,3    None
+virtualMachines  eastus              Standard_B32als_v2  1,2,3    None
+virtualMachines  eastus2             Standard_B32als_v2  1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B32als_v2  1,2      None
+virtualMachines  GermanyWestCentral  Standard_B32als_v2  2,3      None
+virtualMachines  ItalyNorth          Standard_B32als_v2  1,3      None
+virtualMachines  japaneast           Standard_B32als_v2  1,3      None
+virtualMachines  japanwest           Standard_B32als_v2           None
+virtualMachines  KoreaCentral        Standard_B32als_v2  1,3      None
+virtualMachines  KoreaSouth          Standard_B32als_v2           None
+virtualMachines  MalaysiaSouth       Standard_B32als_v2           None
+virtualMachines  northcentralus      Standard_B32als_v2           None
+virtualMachines  northeurope         Standard_B32als_v2  1,2,3    None
+virtualMachines  NorwayEast          Standard_B32als_v2  1,2,3    None
+virtualMachines  PolandCentral       Standard_B32als_v2  1,2,3    None
+virtualMachines  southcentralus      Standard_B32als_v2  1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B32als_v2           None
+virtualMachines  SouthIndia          Standard_B32als_v2           None
+virtualMachines  SwedenCentral       Standard_B32als_v2  1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B32als_v2  1,2,3    None
+virtualMachines  UAENorth            Standard_B32als_v2  1,2,3    None
+virtualMachines  ukwest              Standard_B32als_v2           None
+virtualMachines  westcentralus       Standard_B32als_v2           None
+virtualMachines  westus              Standard_B32als_v2           None
+virtualMachines  westus2             Standard_B32als_v2  1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B32as_v2            None
+virtualMachines  australiaeast       Standard_B32as_v2   1,2,3    None
+virtualMachines  australiasoutheast  Standard_B32as_v2            None
+virtualMachines  CanadaCentral       Standard_B32as_v2   1,2,3    None
+virtualMachines  CanadaEast          Standard_B32as_v2            None
+virtualMachines  CentralIndia        Standard_B32as_v2   1,2,3    None
+virtualMachines  centralus           Standard_B32as_v2   1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B32as_v2   2        None
+virtualMachines  eastasia            Standard_B32as_v2   1,2,3    None
+virtualMachines  eastus              Standard_B32as_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B32as_v2   1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B32as_v2   1,2      None
+virtualMachines  GermanyWestCentral  Standard_B32as_v2   2,3      None
+virtualMachines  ItalyNorth          Standard_B32as_v2   1,3      None
+virtualMachines  japaneast           Standard_B32as_v2   1,3      None
+virtualMachines  japanwest           Standard_B32as_v2            None
+virtualMachines  KoreaCentral        Standard_B32as_v2   1,3      None
+virtualMachines  KoreaSouth          Standard_B32as_v2            None
+virtualMachines  MalaysiaSouth       Standard_B32as_v2            None
+virtualMachines  northcentralus      Standard_B32as_v2            None
+virtualMachines  northeurope         Standard_B32as_v2   1,2,3    None
+virtualMachines  NorwayEast          Standard_B32as_v2   1,2,3    None
+virtualMachines  PolandCentral       Standard_B32as_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B32as_v2   1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B32as_v2            None
+virtualMachines  SouthIndia          Standard_B32as_v2            None
+virtualMachines  SwedenCentral       Standard_B32as_v2   1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B32as_v2   1,2,3    None
+virtualMachines  UAENorth            Standard_B32as_v2   1,2,3    None
+virtualMachines  ukwest              Standard_B32as_v2            None
+virtualMachines  westcentralus       Standard_B32as_v2            None
+virtualMachines  westus              Standard_B32as_v2            None
+virtualMachines  westus2             Standard_B32as_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B32ls_v2            None
+virtualMachines  australiaeast       Standard_B32ls_v2   1,2,3    None
+virtualMachines  australiasoutheast  Standard_B32ls_v2            None
+virtualMachines  CanadaCentral       Standard_B32ls_v2   1,2,3    None
+virtualMachines  CanadaEast          Standard_B32ls_v2            None
+virtualMachines  CentralIndia        Standard_B32ls_v2   1,2,3    None
+virtualMachines  centralus           Standard_B32ls_v2   1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B32ls_v2   2        None
+virtualMachines  eastasia            Standard_B32ls_v2   1,2,3    None
+virtualMachines  eastus              Standard_B32ls_v2   1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B32ls_v2   1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B32ls_v2   1,2,3    None
+virtualMachines  IsraelCentral       Standard_B32ls_v2   1,2,3    None
+virtualMachines  ItalyNorth          Standard_B32ls_v2   1,2,3    None
+virtualMachines  japaneast           Standard_B32ls_v2   1,2,3    None
+virtualMachines  japanwest           Standard_B32ls_v2            None
+virtualMachines  KoreaCentral        Standard_B32ls_v2   1,2,3    None
+virtualMachines  KoreaSouth          Standard_B32ls_v2            None
+virtualMachines  MalaysiaSouth       Standard_B32ls_v2            None
+virtualMachines  MexicoCentral       Standard_B32ls_v2            None
+virtualMachines  northcentralus      Standard_B32ls_v2            None
+virtualMachines  northeurope         Standard_B32ls_v2   1,2,3    None
+virtualMachines  NorwayEast          Standard_B32ls_v2   1,2,3    None
+virtualMachines  PolandCentral       Standard_B32ls_v2   1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B32ls_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B32ls_v2   1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B32ls_v2            None
+virtualMachines  SouthIndia          Standard_B32ls_v2            None
+virtualMachines  SpainCentral        Standard_B32ls_v2            None
+virtualMachines  SwedenCentral       Standard_B32ls_v2   1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B32ls_v2   1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B32ls_v2            None
+virtualMachines  TaiwanNorthwest     Standard_B32ls_v2            None
+virtualMachines  UAENorth            Standard_B32ls_v2   1,2,3    None
+virtualMachines  uksouth             Standard_B32ls_v2   1,2,3    None
+virtualMachines  ukwest              Standard_B32ls_v2            None
+virtualMachines  westus              Standard_B32ls_v2            None
+virtualMachines  westus2             Standard_B32ls_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B32s_v2             None
+virtualMachines  australiaeast       Standard_B32s_v2    1,2,3    None
+virtualMachines  australiasoutheast  Standard_B32s_v2             None
+virtualMachines  CanadaCentral       Standard_B32s_v2    1,2,3    None
+virtualMachines  CanadaEast          Standard_B32s_v2             None
+virtualMachines  CentralIndia        Standard_B32s_v2    1,2,3    None
+virtualMachines  centralus           Standard_B32s_v2    1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B32s_v2    2        None
+virtualMachines  eastasia            Standard_B32s_v2    1,2,3    None
+virtualMachines  eastus              Standard_B32s_v2    1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B32s_v2    1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B32s_v2    1,2,3    None
+virtualMachines  IsraelCentral       Standard_B32s_v2    1,2,3    None
+virtualMachines  ItalyNorth          Standard_B32s_v2    1,2,3    None
+virtualMachines  japaneast           Standard_B32s_v2    1,2,3    None
+virtualMachines  japanwest           Standard_B32s_v2             None
+virtualMachines  KoreaCentral        Standard_B32s_v2    1,2,3    None
+virtualMachines  KoreaSouth          Standard_B32s_v2             None
+virtualMachines  MalaysiaSouth       Standard_B32s_v2             None
+virtualMachines  MexicoCentral       Standard_B32s_v2             None
+virtualMachines  northcentralus      Standard_B32s_v2             None
+virtualMachines  northeurope         Standard_B32s_v2    1,2,3    None
+virtualMachines  NorwayEast          Standard_B32s_v2    1,2,3    None
+virtualMachines  PolandCentral       Standard_B32s_v2    1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B32s_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B32s_v2    1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B32s_v2             None
+virtualMachines  SouthIndia          Standard_B32s_v2             None
+virtualMachines  SpainCentral        Standard_B32s_v2             None
+virtualMachines  SwedenCentral       Standard_B32s_v2    1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B32s_v2    1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B32s_v2             None
+virtualMachines  TaiwanNorthwest     Standard_B32s_v2             None
+virtualMachines  UAENorth            Standard_B32s_v2    1,2,3    None
+virtualMachines  uksouth             Standard_B32s_v2    1,2,3    None
+virtualMachines  ukwest              Standard_B32s_v2             None
+virtualMachines  westus              Standard_B32s_v2             None
+virtualMachines  westus2             Standard_B32s_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B4als_v2            None
+virtualMachines  australiaeast       Standard_B4als_v2   1,2,3    None
+virtualMachines  australiasoutheast  Standard_B4als_v2            None
+virtualMachines  CanadaCentral       Standard_B4als_v2   1,2,3    None
+virtualMachines  CanadaEast          Standard_B4als_v2            None
+virtualMachines  CentralIndia        Standard_B4als_v2   1,2,3    None
+virtualMachines  centralus           Standard_B4als_v2   1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B4als_v2   2        None
+virtualMachines  eastasia            Standard_B4als_v2   1,2,3    None
+virtualMachines  eastus              Standard_B4als_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B4als_v2   1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B4als_v2   1,2      None
+virtualMachines  GermanyWestCentral  Standard_B4als_v2   2,3      None
+virtualMachines  ItalyNorth          Standard_B4als_v2   1,3      None
+virtualMachines  japaneast           Standard_B4als_v2   1,3      None
+virtualMachines  japanwest           Standard_B4als_v2            None
+virtualMachines  KoreaCentral        Standard_B4als_v2   1,3      None
+virtualMachines  KoreaSouth          Standard_B4als_v2            None
+virtualMachines  MalaysiaSouth       Standard_B4als_v2            None
+virtualMachines  northcentralus      Standard_B4als_v2            None
+virtualMachines  northeurope         Standard_B4als_v2   1,2,3    None
+virtualMachines  NorwayEast          Standard_B4als_v2   1,2,3    None
+virtualMachines  PolandCentral       Standard_B4als_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B4als_v2   1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B4als_v2            None
+virtualMachines  SouthIndia          Standard_B4als_v2            None
+virtualMachines  SwedenCentral       Standard_B4als_v2   1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B4als_v2   1,2,3    None
+virtualMachines  UAENorth            Standard_B4als_v2   1,2,3    None
+virtualMachines  ukwest              Standard_B4als_v2            None
+virtualMachines  westcentralus       Standard_B4als_v2            None
+virtualMachines  westus              Standard_B4als_v2            None
+virtualMachines  westus2             Standard_B4als_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B4as_v2             None
+virtualMachines  australiaeast       Standard_B4as_v2    1,2,3    None
+virtualMachines  australiasoutheast  Standard_B4as_v2             None
+virtualMachines  CanadaCentral       Standard_B4as_v2    1,2,3    None
+virtualMachines  CanadaEast          Standard_B4as_v2             None
+virtualMachines  CentralIndia        Standard_B4as_v2    1,2,3    None
+virtualMachines  centralus           Standard_B4as_v2    1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B4as_v2    2        None
+virtualMachines  eastasia            Standard_B4as_v2    1,2,3    None
+virtualMachines  eastus              Standard_B4as_v2    1,2,3    None
+virtualMachines  eastus2             Standard_B4as_v2    1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B4as_v2    1,2      None
+virtualMachines  GermanyWestCentral  Standard_B4as_v2    2,3      None
+virtualMachines  ItalyNorth          Standard_B4as_v2    1,3      None
+virtualMachines  japaneast           Standard_B4as_v2    1,3      None
+virtualMachines  japanwest           Standard_B4as_v2             None
+virtualMachines  KoreaCentral        Standard_B4as_v2    1,3      None
+virtualMachines  KoreaSouth          Standard_B4as_v2             None
+virtualMachines  MalaysiaSouth       Standard_B4as_v2             None
+virtualMachines  northcentralus      Standard_B4as_v2             None
+virtualMachines  northeurope         Standard_B4as_v2    1,2,3    None
+virtualMachines  NorwayEast          Standard_B4as_v2    1,2,3    None
+virtualMachines  PolandCentral       Standard_B4as_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B4as_v2    1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B4as_v2             None
+virtualMachines  SouthIndia          Standard_B4as_v2             None
+virtualMachines  SwedenCentral       Standard_B4as_v2    1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B4as_v2    1,2,3    None
+virtualMachines  UAENorth            Standard_B4as_v2    1,2,3    None
+virtualMachines  ukwest              Standard_B4as_v2             None
+virtualMachines  westcentralus       Standard_B4as_v2             None
+virtualMachines  westus              Standard_B4as_v2             None
+virtualMachines  westus2             Standard_B4as_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B4ls_v2             None
+virtualMachines  australiaeast       Standard_B4ls_v2    1,2,3    None
+virtualMachines  australiasoutheast  Standard_B4ls_v2             None
+virtualMachines  CanadaCentral       Standard_B4ls_v2    1,2,3    None
+virtualMachines  CanadaEast          Standard_B4ls_v2             None
+virtualMachines  CentralIndia        Standard_B4ls_v2    1,2,3    None
+virtualMachines  centralus           Standard_B4ls_v2    1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B4ls_v2    2        None
+virtualMachines  eastasia            Standard_B4ls_v2    1,2,3    None
+virtualMachines  eastus              Standard_B4ls_v2    1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B4ls_v2    1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B4ls_v2    1,2,3    None
+virtualMachines  IsraelCentral       Standard_B4ls_v2    1,2,3    None
+virtualMachines  ItalyNorth          Standard_B4ls_v2    1,2,3    None
+virtualMachines  japaneast           Standard_B4ls_v2    1,2,3    None
+virtualMachines  japanwest           Standard_B4ls_v2             None
+virtualMachines  KoreaCentral        Standard_B4ls_v2    1,2,3    None
+virtualMachines  KoreaSouth          Standard_B4ls_v2             None
+virtualMachines  MalaysiaSouth       Standard_B4ls_v2             None
+virtualMachines  MexicoCentral       Standard_B4ls_v2             None
+virtualMachines  northcentralus      Standard_B4ls_v2             None
+virtualMachines  northeurope         Standard_B4ls_v2    1,2,3    None
+virtualMachines  NorwayEast          Standard_B4ls_v2    1,2,3    None
+virtualMachines  PolandCentral       Standard_B4ls_v2    1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B4ls_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B4ls_v2    1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B4ls_v2             None
+virtualMachines  SouthIndia          Standard_B4ls_v2             None
+virtualMachines  SpainCentral        Standard_B4ls_v2             None
+virtualMachines  SwedenCentral       Standard_B4ls_v2    1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B4ls_v2    1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B4ls_v2             None
+virtualMachines  TaiwanNorthwest     Standard_B4ls_v2             None
+virtualMachines  UAENorth            Standard_B4ls_v2    1,2,3    None
+virtualMachines  uksouth             Standard_B4ls_v2    1,2,3    None
+virtualMachines  ukwest              Standard_B4ls_v2             None
+virtualMachines  westus              Standard_B4ls_v2             None
+virtualMachines  westus2             Standard_B4ls_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B4ms                None
+virtualMachines  australiaeast       Standard_B4ms       1,2,3    None
+virtualMachines  australiasoutheast  Standard_B4ms                None
+virtualMachines  CanadaCentral       Standard_B4ms       1,2,3    None
+virtualMachines  CanadaEast          Standard_B4ms                None
+virtualMachines  CentralIndia        Standard_B4ms       1,2,3    None
+virtualMachines  eastasia            Standard_B4ms       1,2,3    None
+virtualMachines  EastUSSTG           Standard_B4ms                None
+virtualMachines  FranceCentral       Standard_B4ms       1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B4ms       1,2,3    None
+virtualMachines  IsraelCentral       Standard_B4ms       1,2,3    None
+virtualMachines  ItalyNorth          Standard_B4ms       1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B4ms                None
+virtualMachines  MexicoCentral       Standard_B4ms                None
+virtualMachines  northcentralus      Standard_B4ms                None
+virtualMachines  northeurope         Standard_B4ms       1,2,3    None
+virtualMachines  NorwayEast          Standard_B4ms       1,2,3    None
+virtualMachines  PolandCentral       Standard_B4ms       1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B4ms       1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B4ms                None
+virtualMachines  SouthIndia          Standard_B4ms                None
+virtualMachines  SpainCentral        Standard_B4ms                None
+virtualMachines  SwedenCentral       Standard_B4ms       1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B4ms       1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B4ms                None
+virtualMachines  TaiwanNorthwest     Standard_B4ms                None
+virtualMachines  UAENorth            Standard_B4ms       1,2,3    None
+virtualMachines  uksouth             Standard_B4ms       1,2,3    None
+virtualMachines  ukwest              Standard_B4ms                None
+virtualMachines  westus              Standard_B4ms                None
+virtualMachines  australiaeast       Standard_B4pls_v2   1,2,3    None
+virtualMachines  CanadaCentral       Standard_B4pls_v2   1        None
+virtualMachines  CentralIndia        Standard_B4pls_v2   1,2,3    None
+virtualMachines  centralus           Standard_B4pls_v2   1,2,3    None
+virtualMachines  eastasia            Standard_B4pls_v2   3        None
+virtualMachines  eastus              Standard_B4pls_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B4pls_v2   1,2      None
+virtualMachines  EastUS2EUAP         Standard_B4pls_v2   3        None
+virtualMachines  FranceCentral       Standard_B4pls_v2   2        None
+virtualMachines  GermanyWestCentral  Standard_B4pls_v2   2,3      None
+virtualMachines  japaneast           Standard_B4pls_v2   1        None
+virtualMachines  northcentralus      Standard_B4pls_v2            None
+virtualMachines  northeurope         Standard_B4pls_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B4pls_v2   1,2,3    None
+virtualMachines  southeastasia       Standard_B4pls_v2   1,2      None
+virtualMachines  SwedenCentral       Standard_B4pls_v2   3        None
+virtualMachines  uksouth             Standard_B4pls_v2   1,2,3    None
+virtualMachines  westcentralus       Standard_B4pls_v2            None
+virtualMachines  westus              Standard_B4pls_v2            None
+virtualMachines  westus2             Standard_B4pls_v2   1,2,3    None
+virtualMachines  australiaeast       Standard_B4ps_v2    1,2,3    None
+virtualMachines  CanadaCentral       Standard_B4ps_v2    1        None
+virtualMachines  CentralIndia        Standard_B4ps_v2    1,2,3    None
+virtualMachines  centralus           Standard_B4ps_v2    1,2,3    None
+virtualMachines  eastasia            Standard_B4ps_v2    3        None
+virtualMachines  eastus              Standard_B4ps_v2    1,2,3    None
+virtualMachines  eastus2             Standard_B4ps_v2    1,2      None
+virtualMachines  EastUS2EUAP         Standard_B4ps_v2    3        None
+virtualMachines  FranceCentral       Standard_B4ps_v2    2        None
+virtualMachines  GermanyWestCentral  Standard_B4ps_v2    2,3      None
+virtualMachines  japaneast           Standard_B4ps_v2    1        None
+virtualMachines  northcentralus      Standard_B4ps_v2             None
+virtualMachines  northeurope         Standard_B4ps_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B4ps_v2    1,2,3    None
+virtualMachines  southeastasia       Standard_B4ps_v2    1,2      None
+virtualMachines  SwedenCentral       Standard_B4ps_v2    3        None
+virtualMachines  uksouth             Standard_B4ps_v2    1,2,3    None
+virtualMachines  westcentralus       Standard_B4ps_v2             None
+virtualMachines  westus              Standard_B4ps_v2             None
+virtualMachines  westus2             Standard_B4ps_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B4s_v2              None
+virtualMachines  australiaeast       Standard_B4s_v2     1,2,3    None
+virtualMachines  australiasoutheast  Standard_B4s_v2              None
+virtualMachines  CanadaCentral       Standard_B4s_v2     1,2,3    None
+virtualMachines  CanadaEast          Standard_B4s_v2              None
+virtualMachines  CentralIndia        Standard_B4s_v2     1,2,3    None
+virtualMachines  centralus           Standard_B4s_v2     1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B4s_v2     2        None
+virtualMachines  eastasia            Standard_B4s_v2     1,2,3    None
+virtualMachines  eastus              Standard_B4s_v2     1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B4s_v2     1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B4s_v2     1,2,3    None
+virtualMachines  IsraelCentral       Standard_B4s_v2     1,2,3    None
+virtualMachines  ItalyNorth          Standard_B4s_v2     1,2,3    None
+virtualMachines  japaneast           Standard_B4s_v2     1,2,3    None
+virtualMachines  japanwest           Standard_B4s_v2              None
+virtualMachines  KoreaCentral        Standard_B4s_v2     1,2,3    None
+virtualMachines  KoreaSouth          Standard_B4s_v2              None
+virtualMachines  MalaysiaSouth       Standard_B4s_v2              None
+virtualMachines  MexicoCentral       Standard_B4s_v2              None
+virtualMachines  northcentralus      Standard_B4s_v2              None
+virtualMachines  northeurope         Standard_B4s_v2     1,2,3    None
+virtualMachines  NorwayEast          Standard_B4s_v2     1,2,3    None
+virtualMachines  PolandCentral       Standard_B4s_v2     1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B4s_v2     1,2,3    None
+virtualMachines  southcentralus      Standard_B4s_v2     1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B4s_v2              None
+virtualMachines  SouthIndia          Standard_B4s_v2              None
+virtualMachines  SpainCentral        Standard_B4s_v2              None
+virtualMachines  SwedenCentral       Standard_B4s_v2     1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B4s_v2     1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B4s_v2              None
+virtualMachines  TaiwanNorthwest     Standard_B4s_v2              None
+virtualMachines  UAENorth            Standard_B4s_v2     1,2,3    None
+virtualMachines  uksouth             Standard_B4s_v2     1,2,3    None
+virtualMachines  ukwest              Standard_B4s_v2              None
+virtualMachines  westus              Standard_B4s_v2              None
+virtualMachines  westus2             Standard_B4s_v2     1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B8als_v2            None
+virtualMachines  australiaeast       Standard_B8als_v2   1,2,3    None
+virtualMachines  australiasoutheast  Standard_B8als_v2            None
+virtualMachines  CanadaCentral       Standard_B8als_v2   1,2,3    None
+virtualMachines  CanadaEast          Standard_B8als_v2            None
+virtualMachines  CentralIndia        Standard_B8als_v2   1,2,3    None
+virtualMachines  centralus           Standard_B8als_v2   1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B8als_v2   2        None
+virtualMachines  eastasia            Standard_B8als_v2   1,2,3    None
+virtualMachines  eastus              Standard_B8als_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B8als_v2   1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B8als_v2   1,2      None
+virtualMachines  GermanyWestCentral  Standard_B8als_v2   2,3      None
+virtualMachines  ItalyNorth          Standard_B8als_v2   1,3      None
+virtualMachines  japaneast           Standard_B8als_v2   1,3      None
+virtualMachines  japanwest           Standard_B8als_v2            None
+virtualMachines  KoreaCentral        Standard_B8als_v2   1,3      None
+virtualMachines  KoreaSouth          Standard_B8als_v2            None
+virtualMachines  MalaysiaSouth       Standard_B8als_v2            None
+virtualMachines  northcentralus      Standard_B8als_v2            None
+virtualMachines  northeurope         Standard_B8als_v2   1,2,3    None
+virtualMachines  NorwayEast          Standard_B8als_v2   1,2,3    None
+virtualMachines  PolandCentral       Standard_B8als_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B8als_v2   1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B8als_v2            None
+virtualMachines  SouthIndia          Standard_B8als_v2            None
+virtualMachines  SwedenCentral       Standard_B8als_v2   1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B8als_v2   1,2,3    None
+virtualMachines  UAENorth            Standard_B8als_v2   1,2,3    None
+virtualMachines  ukwest              Standard_B8als_v2            None
+virtualMachines  westcentralus       Standard_B8als_v2            None
+virtualMachines  westus              Standard_B8als_v2            None
+virtualMachines  westus2             Standard_B8als_v2   1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B8as_v2             None
+virtualMachines  australiaeast       Standard_B8as_v2    1,2,3    None
+virtualMachines  australiasoutheast  Standard_B8as_v2             None
+virtualMachines  CanadaCentral       Standard_B8as_v2    1,2,3    None
+virtualMachines  CanadaEast          Standard_B8as_v2             None
+virtualMachines  CentralIndia        Standard_B8as_v2    1,2,3    None
+virtualMachines  centralus           Standard_B8as_v2    1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B8as_v2    2        None
+virtualMachines  eastasia            Standard_B8as_v2    1,2,3    None
+virtualMachines  eastus              Standard_B8as_v2    1,2,3    None
+virtualMachines  eastus2             Standard_B8as_v2    1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B8as_v2    1,2      None
+virtualMachines  GermanyWestCentral  Standard_B8as_v2    2,3      None
+virtualMachines  ItalyNorth          Standard_B8as_v2    1,3      None
+virtualMachines  japaneast           Standard_B8as_v2    1,3      None
+virtualMachines  japanwest           Standard_B8as_v2             None
+virtualMachines  KoreaCentral        Standard_B8as_v2    1,3      None
+virtualMachines  KoreaSouth          Standard_B8as_v2             None
+virtualMachines  MalaysiaSouth       Standard_B8as_v2             None
+virtualMachines  northcentralus      Standard_B8as_v2             None
+virtualMachines  northeurope         Standard_B8as_v2    1,2,3    None
+virtualMachines  NorwayEast          Standard_B8as_v2    1,2,3    None
+virtualMachines  PolandCentral       Standard_B8as_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B8as_v2    1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B8as_v2             None
+virtualMachines  SouthIndia          Standard_B8as_v2             None
+virtualMachines  SwedenCentral       Standard_B8as_v2    1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B8as_v2    1,2,3    None
+virtualMachines  UAENorth            Standard_B8as_v2    1,2,3    None
+virtualMachines  ukwest              Standard_B8as_v2             None
+virtualMachines  westcentralus       Standard_B8as_v2             None
+virtualMachines  westus              Standard_B8as_v2             None
+virtualMachines  westus2             Standard_B8as_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B8ls_v2             None
+virtualMachines  australiaeast       Standard_B8ls_v2    1,2,3    None
+virtualMachines  australiasoutheast  Standard_B8ls_v2             None
+virtualMachines  CanadaCentral       Standard_B8ls_v2    1,2,3    None
+virtualMachines  CanadaEast          Standard_B8ls_v2             None
+virtualMachines  CentralIndia        Standard_B8ls_v2    1,2,3    None
+virtualMachines  centralus           Standard_B8ls_v2    1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B8ls_v2    2        None
+virtualMachines  eastasia            Standard_B8ls_v2    1,2,3    None
+virtualMachines  eastus              Standard_B8ls_v2    1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B8ls_v2    1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B8ls_v2    1,2,3    None
+virtualMachines  IsraelCentral       Standard_B8ls_v2    1,2,3    None
+virtualMachines  ItalyNorth          Standard_B8ls_v2    1,2,3    None
+virtualMachines  japaneast           Standard_B8ls_v2    1,2,3    None
+virtualMachines  japanwest           Standard_B8ls_v2             None
+virtualMachines  KoreaCentral        Standard_B8ls_v2    1,2,3    None
+virtualMachines  KoreaSouth          Standard_B8ls_v2             None
+virtualMachines  MalaysiaSouth       Standard_B8ls_v2             None
+virtualMachines  MexicoCentral       Standard_B8ls_v2             None
+virtualMachines  northcentralus      Standard_B8ls_v2             None
+virtualMachines  northeurope         Standard_B8ls_v2    1,2,3    None
+virtualMachines  NorwayEast          Standard_B8ls_v2    1,2,3    None
+virtualMachines  PolandCentral       Standard_B8ls_v2    1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B8ls_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B8ls_v2    1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B8ls_v2             None
+virtualMachines  SouthIndia          Standard_B8ls_v2             None
+virtualMachines  SpainCentral        Standard_B8ls_v2             None
+virtualMachines  SwedenCentral       Standard_B8ls_v2    1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B8ls_v2    1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B8ls_v2             None
+virtualMachines  TaiwanNorthwest     Standard_B8ls_v2             None
+virtualMachines  UAENorth            Standard_B8ls_v2    1,2,3    None
+virtualMachines  uksouth             Standard_B8ls_v2    1,2,3    None
+virtualMachines  ukwest              Standard_B8ls_v2             None
+virtualMachines  westus              Standard_B8ls_v2             None
+virtualMachines  westus2             Standard_B8ls_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B8ms                None
+virtualMachines  australiaeast       Standard_B8ms       1,2,3    None
+virtualMachines  australiasoutheast  Standard_B8ms                None
+virtualMachines  CanadaCentral       Standard_B8ms       1,2,3    None
+virtualMachines  CanadaEast          Standard_B8ms                None
+virtualMachines  CentralIndia        Standard_B8ms       1,2,3    None
+virtualMachines  eastasia            Standard_B8ms       1,2,3    None
+virtualMachines  EastUSSTG           Standard_B8ms                None
+virtualMachines  FranceCentral       Standard_B8ms       1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B8ms       1,2,3    None
+virtualMachines  IsraelCentral       Standard_B8ms       1,2,3    None
+virtualMachines  ItalyNorth          Standard_B8ms       1,2,3    None
+virtualMachines  MalaysiaSouth       Standard_B8ms                None
+virtualMachines  MexicoCentral       Standard_B8ms                None
+virtualMachines  northcentralus      Standard_B8ms                None
+virtualMachines  northeurope         Standard_B8ms       1,2,3    None
+virtualMachines  NorwayEast          Standard_B8ms       1,2,3    None
+virtualMachines  PolandCentral       Standard_B8ms       1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B8ms       1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B8ms                None
+virtualMachines  SouthIndia          Standard_B8ms                None
+virtualMachines  SpainCentral        Standard_B8ms                None
+virtualMachines  SwedenCentral       Standard_B8ms       1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B8ms       1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B8ms                None
+virtualMachines  TaiwanNorthwest     Standard_B8ms                None
+virtualMachines  UAENorth            Standard_B8ms       1,2,3    None
+virtualMachines  uksouth             Standard_B8ms       1,2,3    None
+virtualMachines  ukwest              Standard_B8ms                None
+virtualMachines  westus              Standard_B8ms                None
+virtualMachines  australiaeast       Standard_B8pls_v2   1,2,3    None
+virtualMachines  CanadaCentral       Standard_B8pls_v2   1        None
+virtualMachines  CentralIndia        Standard_B8pls_v2   1,2,3    None
+virtualMachines  centralus           Standard_B8pls_v2   1,2,3    None
+virtualMachines  eastasia            Standard_B8pls_v2   3        None
+virtualMachines  eastus              Standard_B8pls_v2   1,2,3    None
+virtualMachines  eastus2             Standard_B8pls_v2   1,2      None
+virtualMachines  EastUS2EUAP         Standard_B8pls_v2   3        None
+virtualMachines  FranceCentral       Standard_B8pls_v2   2        None
+virtualMachines  GermanyWestCentral  Standard_B8pls_v2   2,3      None
+virtualMachines  japaneast           Standard_B8pls_v2   1        None
+virtualMachines  northcentralus      Standard_B8pls_v2            None
+virtualMachines  northeurope         Standard_B8pls_v2   1,2,3    None
+virtualMachines  southcentralus      Standard_B8pls_v2   1,2,3    None
+virtualMachines  southeastasia       Standard_B8pls_v2   1,2      None
+virtualMachines  SwedenCentral       Standard_B8pls_v2   3        None
+virtualMachines  uksouth             Standard_B8pls_v2   1,2,3    None
+virtualMachines  westcentralus       Standard_B8pls_v2            None
+virtualMachines  westus              Standard_B8pls_v2            None
+virtualMachines  westus2             Standard_B8pls_v2   1,2,3    None
+virtualMachines  australiaeast       Standard_B8ps_v2    1,2,3    None
+virtualMachines  CanadaCentral       Standard_B8ps_v2    1        None
+virtualMachines  CentralIndia        Standard_B8ps_v2    1,2,3    None
+virtualMachines  centralus           Standard_B8ps_v2    1,2,3    None
+virtualMachines  eastasia            Standard_B8ps_v2    3        None
+virtualMachines  eastus              Standard_B8ps_v2    1,2,3    None
+virtualMachines  eastus2             Standard_B8ps_v2    1,2      None
+virtualMachines  EastUS2EUAP         Standard_B8ps_v2    3        None
+virtualMachines  FranceCentral       Standard_B8ps_v2    2        None
+virtualMachines  GermanyWestCentral  Standard_B8ps_v2    2,3      None
+virtualMachines  japaneast           Standard_B8ps_v2    1        None
+virtualMachines  northcentralus      Standard_B8ps_v2             None
+virtualMachines  northeurope         Standard_B8ps_v2    1,2,3    None
+virtualMachines  southcentralus      Standard_B8ps_v2    1,2,3    None
+virtualMachines  southeastasia       Standard_B8ps_v2    1,2      None
+virtualMachines  SwedenCentral       Standard_B8ps_v2    3        None
+virtualMachines  uksouth             Standard_B8ps_v2    1,2,3    None
+virtualMachines  westcentralus       Standard_B8ps_v2             None
+virtualMachines  westus              Standard_B8ps_v2             None
+virtualMachines  westus2             Standard_B8ps_v2    1,2,3    None
+virtualMachines  AustraliaCentral    Standard_B8s_v2              None
+virtualMachines  australiaeast       Standard_B8s_v2     1,2,3    None
+virtualMachines  australiasoutheast  Standard_B8s_v2              None
+virtualMachines  CanadaCentral       Standard_B8s_v2     1,2,3    None
+virtualMachines  CanadaEast          Standard_B8s_v2              None
+virtualMachines  CentralIndia        Standard_B8s_v2     1,2,3    None
+virtualMachines  centralus           Standard_B8s_v2     1,2,3    None
+virtualMachines  CentralUSEUAP       Standard_B8s_v2     2        None
+virtualMachines  eastasia            Standard_B8s_v2     1,2,3    None
+virtualMachines  eastus              Standard_B8s_v2     1,2,3    None
+virtualMachines  EastUS2EUAP         Standard_B8s_v2     1,2,3    None
+virtualMachines  GermanyWestCentral  Standard_B8s_v2     1,2,3    None
+virtualMachines  IsraelCentral       Standard_B8s_v2     1,2,3    None
+virtualMachines  ItalyNorth          Standard_B8s_v2     1,2,3    None
+virtualMachines  japaneast           Standard_B8s_v2     1,2,3    None
+virtualMachines  japanwest           Standard_B8s_v2              None
+virtualMachines  KoreaCentral        Standard_B8s_v2     1,2,3    None
+virtualMachines  KoreaSouth          Standard_B8s_v2              None
+virtualMachines  MalaysiaSouth       Standard_B8s_v2              None
+virtualMachines  MexicoCentral       Standard_B8s_v2              None
+virtualMachines  northcentralus      Standard_B8s_v2              None
+virtualMachines  northeurope         Standard_B8s_v2     1,2,3    None
+virtualMachines  NorwayEast          Standard_B8s_v2     1,2,3    None
+virtualMachines  PolandCentral       Standard_B8s_v2     1,2,3    None
+virtualMachines  SouthAfricaNorth    Standard_B8s_v2     1,2,3    None
+virtualMachines  southcentralus      Standard_B8s_v2     1,2,3    None
+virtualMachines  SouthCentralUSSTG   Standard_B8s_v2              None
+virtualMachines  SouthIndia          Standard_B8s_v2              None
+virtualMachines  SpainCentral        Standard_B8s_v2              None
+virtualMachines  SwedenCentral       Standard_B8s_v2     1,2,3    None
+virtualMachines  SwitzerlandNorth    Standard_B8s_v2     1,2,3    None
+virtualMachines  TaiwanNorth         Standard_B8s_v2              None
+virtualMachines  TaiwanNorthwest     Standard_B8s_v2              None
+virtualMachines  UAENorth            Standard_B8s_v2     1,2,3    None
+virtualMachines  uksouth             Standard_B8s_v2     1,2,3    None
+virtualMachines  ukwest              Standard_B8s_v2              None
+virtualMachines  westus              Standard_B8s_v2              None
+virtualMachines  westus2             Standard_B8s_v2     1,2,3    None

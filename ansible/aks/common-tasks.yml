@@ -1,0 +1,9 @@
+---
+- name: Common task
+  hosts: caso_practico
+  become: true
+  become_method: ansible.builtin.sudo
+  become_user: root
+
+  roles:
+    - config-webserver-along-with-docker

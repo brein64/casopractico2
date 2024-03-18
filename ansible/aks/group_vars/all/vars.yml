@@ -1,0 +1,5 @@
+---
+registry_name: casopractico2acr
+workspace: /Users/bpineros/Documents/caso-practico-2/caso-practico-2-definitivo/ansible/aks/roles/config-persistence-service-along-with-podman/files/ServicioPersistente/
+image_name: jenkins:casopractico2
+user_acr: "casopractico2acr"

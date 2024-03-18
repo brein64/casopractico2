@@ -1,0 +1,34 @@
+- name: installing podman
+  package:
+    name: "podman"
+    state: present
+
+- name: Create a build directory
+  file:
+    path: /var/tmp/build/
+    state: directory
+
+- name: Copy directory to build directory
+  copy:
+    src: "{{ workspace }}"
+    dest: /var/tmp/build/
+    force: false
+
+- name: Build and push an image
+  containers.podman.podman_image:
+    name: "{{ registry_name }}.azurecr.io/{{ image_name }}"
+    path: '/var/tmp/build/'
+    push: true
+    pull: false
+    build:
+      file: "/var/tmp/build/Dockerfile"
+    push_args:
+      dest: "{{ registry_name }}.azurecr.io/{{ image_name }}"
+    username: "{{ user_acr }}"
+    password: "{{ password_acr }}"
+
+- name: Run container
+  containers.podman.podman_container:
+    name: my_web_server
+    image: "{{ registry_name }}.azurecr.io/{{ image_name }}"
+    state: started
